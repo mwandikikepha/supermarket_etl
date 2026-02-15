@@ -1,0 +1,4 @@
+.env
+supermarket-credentials.json
+supermarket_transactions - supermarket_transactions.csv
+__pycache__
